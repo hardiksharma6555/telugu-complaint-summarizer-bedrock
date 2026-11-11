@@ -1,0 +1,2 @@
+boto3>=1.40
+openpyxl>=3.1  # only needed for .xlsx input
